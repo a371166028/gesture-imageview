@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cd10b40-9a4d-430c-91ad-ebcb989a2aaf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/gesture-imageview.iml" afterPath="$PROJECT_DIR$/main/gesture-imageview.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/project.properties" afterPath="$PROJECT_DIR$/main/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/src/com/polites/android/example/DoubleImage.java" afterPath="$PROJECT_DIR$/example/src/com/polites/android/example/DoubleImage.java" />
     </list>
     <ignored path="gesture-imageview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +22,33 @@
   <component name="FavoritesManager">
     <favorites_list name="gesture-imageview" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DoubleImage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/src/com/polites/android/example/DoubleImage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12826604">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/example/src/com/polites/android/example/DoubleImage.java" />
+      </list>
     </option>
   </component>
   <component name="NamedScopeManager">
@@ -249,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -289,5 +309,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example/src/com/polites/android/example/DoubleImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12826604">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

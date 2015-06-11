@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout.LayoutParams;
 import com.polites.android.GestureImageView;
 
+//²âÊÔÒ»ÏÂ
 public class DoubleImage extends Activity {
 	
 	private GestureImageView view;
